@@ -1,0 +1,6 @@
+python 3
+pip 3
+streamlit
+pandas
+numpy
+sklearn
